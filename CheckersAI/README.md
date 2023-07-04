@@ -1,1 +1,1 @@
-Play Checkers with AI :)
+Play Checkers with AI using minimax algorithm.
