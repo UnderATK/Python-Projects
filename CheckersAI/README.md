@@ -1,0 +1,1 @@
+Play Checkers with AI :)
